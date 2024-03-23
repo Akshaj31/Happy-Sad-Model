@@ -13,24 +13,20 @@ git clone https://github.com/Akshaj31/Happy-Sad-Model.git
 
 ## Model Architecture
 
-The model architecture is defined in `model.py`. It consists of three convolutional layers followed by max-pooling layers, a flatten layer, and two dense layers.
+The model architecture is defined in `Image Classification.ipynb`. It consists of three convolutional layers followed by max-pooling layers, a flatten layer, and two dense layers.
 
 ## Dataset
 
-The dataset used for training the model can be found at <provide_dataset_link>. It contains images labeled as happy or sad.
+The dataset used for training the model can be found at `data`. It contains images labeled as happy or sad.
 
 ## Training
 
-To train the model, run `train.py`. You can customize the training parameters in the script.
+To train the model, run the jupyter notebook. You can customize the training parameters in the script.
 
 ## Evaluation
 
-Evaluation metrics and results can be found in `evaluation.ipynb`.
-
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
+Evaluation metrics and results can also be found in the same notebook.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
